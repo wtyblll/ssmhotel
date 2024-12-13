@@ -299,21 +299,14 @@
       <workItem from="1734069733456" duration="6048000" />
       <workItem from="1734081919333" duration="294000" />
       <workItem from="1734082749169" duration="1019000" />
+      <workItem from="1734094285090" duration="34000" />
+      <workItem from="1734094363099" duration="294000" />
+      <workItem from="1734094801200" duration="894000" />
+      <workItem from="1734095975057" duration="1507000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/bdqn/service/impl/OrdersServiceImpl.java</url>
-          <line>47</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

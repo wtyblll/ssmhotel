@@ -106,6 +106,23 @@ public class SystemController {
     }
 
     /**
+     * 去到房间管理页面
+     * @return
+     */
+    @RequestMapping("/toRoomManager")
+    public String toRoomManager(){
+        return "admin/room/roomManager";
+    }
+
+    /**
+     * 去到预订管理页面
+     * @return
+     */
+    @RequestMapping("/toOrdersManager")
+    public String toOrdersManager(){
+        return "admin/orders/ordersManager";
+    }
+    /**
      * 去到入住管理页面
      * @return
      */
