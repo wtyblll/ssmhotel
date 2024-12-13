@@ -34,7 +34,7 @@ public class IndexController {
         //调用查询所有楼层列表的方法
         List<Floor> floorList = floorService.findFloorList(null);
         //调用查询每个楼层的房间列表
-        List<Room> roomList = roomService.findRoomListByFloorId();
+        List<Room> roomList = roomService.findRoomListByFloorId(1); // 假设提供一个默认参数
         //将数据放到模型中
         model.addAttribute("roomTypeList",roomTypeList);
         model.addAttribute("floorList",floorList);
