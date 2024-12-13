@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ssm_hotel:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d580888-5781-4b28-aa5f-c2aed51d9629" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="mapper" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/soft-environment/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\soft-environment\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hfnfhubLiJpANLV7WjAxeQ4hRw" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/zixio/Desktop/ssm_hotel",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "工件",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "spring.configuration.checksum": "28591e2c359aed2d1180003e73828e54"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.bdqn.vo" />
+      <recent name="com.bdqn.service.impl" />
+      <recent name="com.bdqn.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\code\JT11\project\ssm_hotel\src\main\webapp\WEB-INF\jsp\admin\charts" />
+      <recent name="F:\code\JT11\project\ssm_hotel\src\main\webapp\statics" />
+      <recent name="F:\code\JT11\project\ssm_hotel\src\main\java\com\bdqn\entity" />
+      <recent name="F:\code\JT11\project\ssm_hotel\src\main\webapp\WEB-INF\jsp\admin\checkin" />
+      <recent name="F:\code\JT11\project\ssm_hotel\src\main\webapp\statics\front\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\code\JT11\project\ssm_hotel\src\main\webapp\WEB-INF\jsp\admin\orders" />
+      <recent name="F:\code\JT11\project\ssm_hotel\src\main\webapp\statics\front" />
+      <recent name="F:\code\JT11\project\ssm_hotel\src\main\webapp\WEB-INF\jsp\admin" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bdqn.vo" />
+      <recent name="com.bdqn.utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat 服务器.tomcat">
+    <configuration name="PasswordUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bdqn.utils.PasswordUtil" />
+      <module name="ssm_hotel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bdqn.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bdqn.Test" />
+      <module name="ssm_hotel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bdqn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.103" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="ssm_hotel:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_ssm_hotel_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="10146" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ssm_hotel:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat 服务器.tomcat" />
+      <item itemvalue="应用程序.PasswordUtil" />
+      <item itemvalue="应用程序.Test" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.10436562" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d580888-5781-4b28-aa5f-c2aed51d9629" name="Default Changelist" comment="" />
+      <created>1600411118351</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600411118351</updated>
+      <workItem from="1600411121559" duration="9189000" />
+      <workItem from="1600668113187" duration="9235000" />
+      <workItem from="1600754473189" duration="1049000" />
+      <workItem from="1600755996658" duration="657000" />
+      <workItem from="1600756799849" duration="41000" />
+      <workItem from="1600756857047" duration="8126000" />
+      <workItem from="1600927388649" duration="9602000" />
+      <workItem from="1601014521398" duration="83000" />
+      <workItem from="1601014761028" duration="6537000" />
+      <workItem from="1601273083981" duration="9157000" />
+      <workItem from="1602223488888" duration="8556000" />
+      <workItem from="1602482621543" duration="9722000" />
+      <workItem from="1603087395721" duration="9023000" />
+      <workItem from="1603117481906" duration="220000" />
+      <workItem from="1603173930347" duration="8732000" />
+      <workItem from="1603260201039" duration="10326000" />
+      <workItem from="1603346631561" duration="9387000" />
+      <workItem from="1603419887564" duration="15319000" />
+      <workItem from="1603457042241" duration="385000" />
+      <workItem from="1603630105594" duration="29000" />
+      <workItem from="1603692388201" duration="9278000" />
+      <workItem from="1603778726479" duration="9985000" />
+      <workItem from="1603951408491" duration="9502000" />
+      <workItem from="1604037900064" duration="9514000" />
+      <workItem from="1733300151712" duration="3217000" />
+      <workItem from="1733310377324" duration="53000" />
+      <workItem from="1733311888564" duration="734000" />
+      <workItem from="1733473426270" duration="16000" />
+      <workItem from="1734069733456" duration="3612000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/bdqn/service/impl/OrdersServiceImpl.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
