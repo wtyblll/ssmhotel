@@ -73,6 +73,7 @@ public class CheckoutServiceImpl implements CheckoutService {
                 roomMapper.updateRoom(room);
             }
         } catch (Exception e) {
+            // 记录详细的错误信息
             e.printStackTrace();
             // 或者记录日志，具体处理方式根据业务需求而定
         }

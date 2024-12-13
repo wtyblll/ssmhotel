@@ -28,9 +28,7 @@ public class RoomTypeServiceImpl implements RoomTypeService {
     }
 
     public int addRoomType(RoomType roomType) {
-        //可用房间数默认是全部的房间数量
-        roomType.setAvailableNum(roomType.getRoomnum());
-        roomType.setLivednum(0);//已入住房间数量
+        setRoomTypeFields(roomType);
         return roomTypeMapper.addRoomType(roomType);
     }
 
@@ -41,9 +39,13 @@ public class RoomTypeServiceImpl implements RoomTypeService {
      * @return 影响的行数
      */
     public int updateRoomType(RoomType roomType) {
-        //可用房间数默认是全部的房间数量
-        roomType.setAvailableNum(roomType.getRoomnum()); // 10
-        roomType.setLivednum(0);//已入住房间数量
+        setRoomTypeFields(roomType);
         return roomTypeMapper.updateRoomType(roomType);
+    }
+
+    private void setRoomTypeFields(RoomType roomType) {
+        // 可用房间数默认是全部的房间数量
+        roomType.setAvailableNum(roomType.getRoomnum());
+        roomType.setLivednum(0); // 已入住房间数量
     }
 }
